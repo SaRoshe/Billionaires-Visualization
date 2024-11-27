@@ -1,4 +1,4 @@
-# Billionaires Dashboard and Stories
+# Billionaires 
 
 This dataset contains statistics on the world's billionaires, including information about their demographic, businesses, industries and personal details. It provides insights into the wealth distribution, business sectors, demographics of billionaires worldwide and stories about how country specification affect them.
 Financial wealth is often seen as a measure of success. Billionaires represent the peak of financial achievement, making their stories inspirational and significant. 
